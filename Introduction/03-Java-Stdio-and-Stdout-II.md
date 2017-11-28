@@ -19,5 +19,6 @@ public class Solution {
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
     }
+    
 }
 ```
